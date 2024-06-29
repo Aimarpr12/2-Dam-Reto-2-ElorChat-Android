@@ -69,7 +69,7 @@ desde la configuración.
 ### Instalación
 
 1. Clonar el repositorio
-   git clone https://github.com/Ceptorsh0ck/Reto2_app_android.git
+   git clone https://github.com/PRSpidy/2-Dam-Reto-2-ElorChat-Android.git
 2. Abrir el proyecto en Android Studio
 3. Ejecutar el proyecto en un emulador o dispositivo físico.
 
@@ -80,21 +80,15 @@ desde la configuración.
 - Completa los formularios de confirmación de datos personales.
 - Una vez completados los pasos anteriores, podrás acceder a la aplicación con normalidad.
 
-### Prerrequisitos
+## Prerrequisitos
 
 - Tener instaladas las tecnologías necesarias (Socket.io, Retrofit, Firebase, Room).
 
 
-### Contacto
-- Gorka Gabiña - gorka.gabiname@elorrieta-errekamari.com
-- Jon Gallego - jon.gallegoaz@elorrieta-errekamari.com
-- Milena Cuellar - milena.cuellarpa@elorrieta-errekamari.com
-- Aimar Pelea - aimar.peleaar@elorrieta-errekamari.com
-
-## Licencia
-- Este proyecto está bajo la Licencia MIT
-
-
-
+## Contacto
+- [Aimar Pelea](https://github.com/PRSpidy)
+- [Gorka Gabiña](https://github.com/Ceptorshock)
+- [Jon Gallego](https://github.com/JonGallego97)
+- [Milena Cuellar](https://github.com/Milena2301)
 
 
