@@ -69,7 +69,7 @@ desde la configuración.
 ### Instalación
 
 1. Clonar el repositorio
-   git clone https://github.com/PRSpidy/2-Dam-Reto-2-ElorChat-Android.git
+   git clone https://github.com/Aimarpr12/2-Dam-Reto-2-ElorChat-Android.git
 2. Abrir el proyecto en Android Studio
 3. Ejecutar el proyecto en un emulador o dispositivo físico.
 
@@ -86,7 +86,7 @@ desde la configuración.
 
 
 ## Contacto
-- [Aimar Pelea](https://github.com/PRSpidy)
+- [Aimar Pelea](https://github.com/Aimarpr12)
 - [Gorka Gabiña](https://github.com/Ceptorshock)
 - [Jon Gallego](https://github.com/JonGallego97)
 - [Milena Cuellar](https://github.com/Milena2301)
